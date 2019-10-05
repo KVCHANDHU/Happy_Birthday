@@ -1,2 +1,2 @@
 # Happy_Birthday
-Its an basic android application 
+It's a basic android application.
